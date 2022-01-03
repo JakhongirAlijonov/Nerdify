@@ -204,3 +204,240 @@ body {
 .right-arrow {
     margin-top: 17px;
 }
+
+.features {
+    margin-top: 35px;
+    text-align: center;
+    letter-spacing: 0.15000000596046448px;
+}
+
+.features-title {
+    color: #023135;
+    font-size: 24px;
+    margin-bottom: 40px;
+    line-height: 32px;
+}
+
+.features-list {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.features-item {
+    list-style: none;
+}
+
+.featuer-item-title {
+    font-size: 20px;
+    color: #023135;
+    line-height: 28px;
+    margin-top: 20px;
+    margin-bottom: 12px;
+}
+
+.feature-item-text {
+    font-size: 9px;
+    line-height: 24px;
+    color: #000;
+}
+
+.submit {
+    margin-top: 96px;
+    background: linear-gradient(180deg, #F9FAFD 0%, #F1F3F9 100%);
+    padding-bottom: 200px;
+}
+
+.submit-title {
+    padding-top: 57px;
+    font-size: 32px;
+    color: #023135;
+    line-height: 44px;
+    text-align: center;
+}
+
+.submit-features {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.submit-text img {
+    margin-right: 16px;
+}
+
+.vidoes {
+    padding: 90px;
+    letter-spacing: 0.20000000298023224px;
+}
+
+.videos-title {
+    margin-top: 48px;
+    margin-bottom: 20px;
+    color: #023135;
+    text-align: center;
+}
+
+.video-title span {
+    color: #007A5C;
+}
+
+.video-title {
+    font-size: 32px;
+    color: #023135;
+    line-height: 44px;
+    text-align: center;
+}
+
+.video-des {
+    color: #909EAB;
+    text-align: center;
+    line-height: 24px;
+    text-align: center;
+}
+
+.videos-list {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.videos-item {
+    list-style-type: none;
+}
+
+.plans {
+    padding-top: 43px;
+    background: linear-gradient(180deg, #F7FAFF 0%, #EBF4FF 100%);
+}
+
+.plan-title {
+    font-size: 40px;
+    line-height: 52px;
+    letter-spacing: 0.25px;
+    text-align: center;
+    color: #023135;
+}
+
+.plan-list {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.plan-item {
+    border: 1px solid #EBF4FF;
+    box-shadow: 0px 2px 25px 0px #4C6AAA38;
+    padding: 25px 23px;
+    border-radius: 20px;
+    list-style: none;
+    margin-bottom: -77px;
+    background-color: #fff;
+}
+
+.plan-item-title {
+    color: #023135;
+    font-size: 20px;
+    line-height: 28px;
+    letter-spacing: 0.15000000596046448px;
+    text-align: center;
+}
+
+sub,
+sup {
+    color: #ff1b36;
+}
+
+.plan-feature-item {
+    list-style: none;
+    margin-top: 16px;
+    line-height: 19px;
+    letter-spacing: 0.15000000596046448px;
+}
+
+.plan-feature-item:first-child {
+    margin-top: 0;
+}
+
+.subscribe {
+    text-decoration: none;
+    background-color: #007A5C;
+    color: #fff;
+    display: inline-block;
+    padding: 10px 86px;
+    border-radius: 24px;
+    margin-top: 30px;
+    transition: 300ms ease-in;
+}
+
+.subscribe:hover {
+    color: #007A5C;
+    background-color: #fff;
+}
+
+.faq {
+    margin-top: 145px;
+    text-align: center;
+}
+
+.faq-title {
+    font-size: 32px;
+    color: #020202;
+    line-height: 44px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+}
+
+.faq-quests {
+    text-decoration: none;
+    color: #023135;
+    margin-top: 24px;
+    transition: 300ms ease-in;
+}
+
+.faq-quests:hover {
+    text-decoration: underline;
+}
+
+.faqs {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    justify-content: center;
+    align-items: center;
+}
+
+.site-footer {
+    margin-top: 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 26px;
+}
+
+.footer-list {
+    display: flex;
+    align-items: center;
+}
+
+.footer-list-item {
+    margin-left: 26px;
+    list-style-type: none;
+}
+
+.footer-list-item:first-child {
+    margin-left: 0;
+}
+
+.footer-links {
+    text-decoration: none;
+    color: #023135;
+    font-size: 12px;
+    line-height: 20px;
+    letter-spacing: 0.15000000596046448px;
+    transition: 300ms ease-in;
+}
+
+.footer-links:hover {
+    text-decoration: underline;
+}
